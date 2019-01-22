@@ -42,7 +42,7 @@
         </plugins>
     </build>
 
-    <!--<distributionManagement>
+    <distributionManagement>
         <snapshotRepository>
             <id>my-repo-bucket-snapshot</id>
             <url>gs://mavenrepository/snapshot</url>
@@ -51,6 +51,6 @@
             <id>my-repo-bucket-release</id>
             <url>gs://mavenrepository/release</url>
         </repository>
-    </distributionManagement>-->
+    </distributionManagement>
 
 </project>
