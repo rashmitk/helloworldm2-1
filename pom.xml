@@ -23,6 +23,7 @@
                 <version>1.0</version>
             </extension>
         </extensions>
+             <!--
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
@@ -40,6 +41,7 @@
                 </executions>
             </plugin>
         </plugins>
+             -->
     </build>
 
     <distributionManagement>
